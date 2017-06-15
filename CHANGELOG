@@ -1,3 +1,6 @@
+* Thu Jun 15 2017 Nick Markowski <nmarkowski@keywcorp.com> - 6.1.0-0
+- Exposed stunnel::connection parameters
+
 * Wed Mar 29 2017 Trevor Vaughan <tvaughan@onyxpoint.com> - 6.0.2-0
 - Ensure that rsync password files are not echoed to the Puppet log
 
